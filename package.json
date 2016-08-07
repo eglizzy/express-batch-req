@@ -1,0 +1,19 @@
+{
+  "name": "express-batch-req",
+  "repository": "git@github.com:eglizzy/express-batch-req.git",
+  "description": "Express route handler for handling multiple req with one http connection",
+  "main": "src/batch.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.9.3",
+    "express": "^4.14.0",
+    "lodash": "^4.14.1"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "batch"
+  ]
+}
