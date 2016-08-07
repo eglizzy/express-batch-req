@@ -1,5 +1,6 @@
 {
   "name": "express-batch-req",
+  "version": "1.0.0",
   "repository": "git@github.com:eglizzy/express-batch-req.git",
   "description": "Express route handler for handling multiple req with one http connection",
   "main": "src/batch.js",
