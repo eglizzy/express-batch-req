@@ -68,7 +68,8 @@ function BatchRequest(path, method) {
   }
 
   this.response.setHeader = function (name, value) {
-    this.set(name, value)
+    // this.set(name, value)
+    // TODO implement
   }
 
   this.request.method = method
